@@ -76,4 +76,7 @@ For manual trigger we can add the following code to the workflow:
 The the following option should be available:
 
 
+![Alt text](lab9_2.png)
+
+
 
