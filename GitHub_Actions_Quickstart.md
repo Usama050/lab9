@@ -63,3 +63,17 @@ jobs:
 
 
 ![Alt text](lab9_1.png)
+
+
+
+## Task 2: Gathering System Information and Manual Triggering
+
+For manual trigger we can add the following code to the workflow:
+
+> #Allows you to run this workflow manually from the Actions tab
+> workflow_dispatch:
+
+The the following option should be available:
+
+
+
