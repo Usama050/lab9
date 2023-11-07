@@ -59,3 +59,7 @@ jobs:
 ```
 
 **Output:**
+
+
+
+![Alt text](lab9_1.png)
